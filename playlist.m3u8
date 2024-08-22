@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AEEast" tvg-name="AEEast" group-title="Miscellaneous",AEEast
-https://v6.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=M0NlZVk0dFdORkNTTmk2Ulp5Rzl0QXBWMkM0aGc4NVQzeXBWYUNhOQ==
+https://stream.syritv.al/SyriTV/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork" tvg-name="ACCNetwork" group-title="Sports",ACCNetwork
 https://v2.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=M0NlZVk0dFdORkNTTmk2Ulp5Rzl0QXBWMkM0aGc4NVQzeXBWYUNhOQ==
 #EXTINF:-1 tvg-id="AMCEast" tvg-name="AMCEast" group-title="Miscellaneous",AMCEast
